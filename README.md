@@ -8,7 +8,7 @@ Make the script executable
 Step 1 (run once)
 chmod +x build_environment.sh
 
-Step 2 (create screen)
+Step 2 (create screen)\n
 screen -S my_session_name
 
 Step 3 (run the script)
@@ -21,3 +21,6 @@ Operation
 4. Enter Docker
 5. Do full build
 6. After finish, will remain in docker condition
+
+DISCLAIMER
+Continue at own risk
