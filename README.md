@@ -3,12 +3,10 @@ To automate delete old environment and sync new environment
 
 How to:
 
-Make the script executable
-
 Step 1 (run once)
 chmod +x build_environment.sh
 
-Step 2 (create screen)\n
+Step 2 (create screen)
 screen -S my_session_name
 
 Step 3 (run the script)
